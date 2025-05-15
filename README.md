@@ -1,4 +1,0 @@
-# Athena Analytics platform 
-## This is a Gemini given scenario which I am working on currently this project is to build the infrastructure for an application called Athena Analytics problem and here is the description of it 
-### The "Athena Analytics Platform" is a new application designed to collect, process, and visualize large datasets of user behavior from our existing customer-facing applications. The goal is to provide actionable insights to the product and marketing teams to improve user engagement and drive business growth.
-#### The target here is not build the application it is to build an application infra that wil work on real life scenarios.
